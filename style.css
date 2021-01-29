@@ -101,5 +101,11 @@ p{
     background-color: dodgerblue;
     font-size: 25px;
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: fuchsia;
+}
 
 
